@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef1c6146-1d05-4346-95e9-b42e18caa14e" name="Changes" comment="Changes:&#10;- Added TestGame for testing, making StartGame only for playing the game&#10;- Created Sprite Class">
-      <change afterPath="$PROJECT_DIR$/Entity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/View/Sprite.java" beforeDir="false" />
-    </list>
+    <list default="true" id="ef1c6146-1d05-4346-95e9-b42e18caa14e" name="Changes" comment="Changes:&#10;- Added Entity class (Doesnt work)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,6 +70,19 @@
       <option name="presentableId" value="Default" />
       <updated>1776343726675</updated>
     </task>
+    <task id="LOCAL-00001" summary="Changes:&#10;- Added Entity class (Doesnt work)">
+      <option name="closed" value="true" />
+      <created>1776438198490</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1776438198490</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changes:&#10;- Added Entity class (Doesnt work)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes:&#10;- Added Entity class (Doesnt work)" />
   </component>
 </project>
