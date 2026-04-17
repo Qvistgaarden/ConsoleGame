@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ef1c6146-1d05-4346-95e9-b42e18caa14e" name="Changes" comment="Changes:&#10;- Added TestGame for testing, making StartGame only for playing the game&#10;- Created Sprite Class">
-      <change afterPath="$PROJECT_DIR$/TestGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/View/Sprite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StartGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/StartGame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StartGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/StartGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Entity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/Sprite.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true">
+    <option name="groupingKeys">
+      <option value="module" />
+      <option value="repository" />
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,7 +33,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Qvistgaarden/ConsoleGame.git&quot;,
-    &quot;accountId&quot;: &quot;cace2ef3-dd78-4aa5-ade4-4963b212696c&quot;
+    &quot;accountId&quot;: &quot;5ffe20cb-9c33-418a-b92d-f9237464ef1c&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -35,16 +44,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/tobia/OneDrive/Skrivebord/Uni/2. Semester/ADVANCED PROG/ConsoleGame"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tobia\OneDrive\Skrivebord\Uni\2. Semester\ADVANCED PROG\ConsoleGame" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
