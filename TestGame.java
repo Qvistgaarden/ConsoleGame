@@ -21,6 +21,14 @@ public class TestGame {
         }
 
         System.out.println( "HP: " + player.getHealth() );
+        player.takeDamage(20, "fire");
+        System.out.println( "Applying 20 fire damage" );
+        System.out.println( "HP: " + player.getHealth() );
+        System.out.println( "Applying 20 fire damage with 20% resistance to fire" );
+        player.resistances.put("fire",0.2);
+        player.takeDamage(20, "fire");
+        System.out.println( "HP: " + player.getHealth() );
+
 
 
 
