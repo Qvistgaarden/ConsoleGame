@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef1c6146-1d05-4346-95e9-b42e18caa14e" name="Changes" comment="Changes:&#10;- Added Entity class (Doesnt work)">
-      <change afterPath="$PROJECT_DIR$/Tools.java" afterDir="false" />
+    <list default="true" id="ef1c6146-1d05-4346-95e9-b42e18caa14e" name="Changes" comment="Added healing to Entity&#10;Added Tools.java class&#10;- added ln() which changes line">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Entity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Entity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestGame.java" afterDir="false" />
@@ -30,12 +29,12 @@
     &quot;assignee&quot;: &quot;Qvistgaarden&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Qvistgaarden/ConsoleGame.git",
-    "accountId": "cace2ef3-dd78-4aa5-ade4-4963b212696c"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Qvistgaarden/ConsoleGame.git&quot;,
+    &quot;accountId&quot;: &quot;cace2ef3-dd78-4aa5-ade4-4963b212696c&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -57,6 +56,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tobia\Desktop\UNI\2. semester\ADVANCED PRO\Assignments\ConsoleGame" />
+      <recent name="C:\Users\tobia\Desktop\UNI\2. semester\ADVANCED PRO\Assignments\ConsoleGame\Tools" />
       <recent name="C:\Users\tobia\OneDrive\Skrivebord\Uni\2. Semester\ADVANCED PROG\ConsoleGame" />
     </key>
   </component>
@@ -83,7 +84,15 @@
       <option name="project" value="LOCAL" />
       <updated>1776438198490</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added healing to Entity&#10;Added Tools.java class&#10;- added ln() which changes line">
+      <option name="closed" value="true" />
+      <created>1776525914757</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1776525914757</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,6 +108,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Changes:&#10;- Added Entity class (Doesnt work)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes:&#10;- Added Entity class (Doesnt work)" />
+    <MESSAGE value="Added healing to Entity&#10;Added Tools.java class&#10;- added ln() which changes line" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added healing to Entity&#10;Added Tools.java class&#10;- added ln() which changes line" />
   </component>
 </project>

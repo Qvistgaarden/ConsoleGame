@@ -29,7 +29,6 @@ class Entity {
         this.maxHealth = maxHealth;
     }
 
-
     public void takeDamage(double amount, String type ){
         double damage = amount;
 
